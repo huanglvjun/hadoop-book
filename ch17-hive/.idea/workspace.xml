@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8822a28b-dfcb-4ecf-b55d-5d81425eaeb7" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/src/main/java/IntPair.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/src/main/java/JobBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__asm_asm_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__asm_asm_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__asm_asm_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__asm_asm_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__colt_colt_1_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__com_clearspring_analytics_stream_2_7_0.xml" />
@@ -33,77 +29,62 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_google_inject_extensions_guice_servlet_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_google_inject_guice_3_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_5_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_hadoopbook_ch02_mr_intro_4_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_hadoopbook_common_4_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jamesmurty_utils_java_xmlbuilder_0_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_jcraft_jsch_0_1_42.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__com_ning_compress_lzf_1_0_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_guice_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_9.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__com_twitter_chill_2_10_0_3_6.xml" />
@@ -113,56 +94,46 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_daemon_commons_daemon_1_0_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_el_commons_el_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
@@ -171,10 +142,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
@@ -185,12 +154,10 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__commons_net_commons_net_2_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__commons_net_commons_net_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__concurrent_concurrent_1_3_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__hsqldb_hsqldb_1_8_0_10.xml" />
@@ -199,54 +166,42 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__io_netty_netty_3_6_2_Final.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__io_netty_netty_3_6_6_Final.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__io_netty_netty_3_6_6_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__io_netty_netty_all_4_0_23_Final.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__javax_activation_activation_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jdo_jdo_api_3_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__junit_junit_4_11.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__junit_junit_4_11.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__junit_junit_4_11.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__junit_junit_4_11.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__junit_junit_4_11.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
@@ -255,18 +210,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jets3t_jets3t_0_9_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__net_jpountz_lz4_lz4_1_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__net_sf_py4j_py4j_0_8_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_4_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_avro_avro_1_7_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_avro_avro_ipc_1_7_6.xml" />
@@ -281,159 +229,127 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_commons_commons_compress_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_commons_commons_math3_3_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_commons_commons_math_2_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_curator_curator_client_2_4_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_curator_curator_framework_2_4_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_curator_curator_recipes_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_10_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_asn1_api_1_0_0_M20.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_api_api_util_1_0_0_M20.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_i18n_2_0_0_M15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_directory_server_apacheds_kerberos_codec_2_0_0_M15.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_annotations_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_auth_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_1_0_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_test_jar_tests_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_common_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_hadoop_hadoop_core_1_0_4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_test_jar_tests_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_hdfs_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_app_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_core_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_hs_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_hs_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_hs_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_hs_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_hs_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_test_jar_tests_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_jobclient_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_minicluster_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_minicluster_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_minicluster_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_minicluster_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_minicluster_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_api_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_client_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_2_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_applicationhistoryservice_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_applicationhistoryservice_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_applicationhistoryservice_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_applicationhistoryservice_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_applicationhistoryservice_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_common_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_nodemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_resourcemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_resourcemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_resourcemanager_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_resourcemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_resourcemanager_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_tests_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_tests_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_tests_test_jar_tests_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_tests_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_tests_test_jar_tests_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hbase_hbase_annotations_0_98_7_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hbase_hbase_client_0_98_7_hadoop2.xml" />
@@ -444,76 +360,51 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hbase_hbase_prefix_tree_0_98_7_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hbase_hbase_protocol_0_98_7_hadoop2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_hbase_hbase_server_0_98_7_hadoop2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_ant_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_common_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_exec_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_metastore_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_serde_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_hive_shims_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_0_20S_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_0_20_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_0_23_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_common_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_hive_shims_hive_shims_common_secure_0_13_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_mesos_mesos_shaded_protobuf_0_18_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_mrunit_mrunit_hadoop2_1_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_mrunit_mrunit_hadoop2_1_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_mrunit_mrunit_hadoop2_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_mrunit_mrunit_hadoop2_1_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_mrunit_mrunit_hadoop2_1_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_spark_spark_core_2_10_1_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_sqoop_sqoop_hadoop200_1_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libfb303_0_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_cloudera_htrace_htrace_core_2_04.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_all_2_1_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_7_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_datanucleus_datanucleus_api_jdo_3_2_6.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_8_1_14_v20131031.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_8_1_14_v20131031.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_8_1_14_v20131031.xml" />
@@ -532,13 +423,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_fusesource_leveldbjni_leveldbjni_all_1_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
@@ -546,7 +435,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_javassist_javassist_3_18_0_GA.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_javassist_javassist_3_18_0_GA.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_javassist_javassist_3_18_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_0_GA.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_javassist_javassist_3_18_0_GA.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_jruby_jcodings_jcodings_1_0_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_jruby_joni_joni_2_1_2.xml" />
@@ -556,19 +444,16 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_26.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_mortbay_jetty_jsp_2_1_6_1_14.xml" />
@@ -580,38 +465,31 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_objenesis_objenesis_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_powermock_powermock_api_mockito_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_powermock_powermock_api_support_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_powermock_powermock_api_support_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_powermock_powermock_api_support_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_api_support_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_powermock_powermock_api_support_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_powermock_powermock_core_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_powermock_powermock_core_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_powermock_powermock_core_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_core_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_powermock_powermock_core_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_powermock_powermock_module_junit4_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_powermock_powermock_module_junit4_common_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_powermock_powermock_reflect_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_powermock_powermock_reflect_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_powermock_powermock_reflect_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_powermock_powermock_reflect_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_powermock_powermock_reflect_1_5_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_scala_lang_scala_compiler_2_10_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_4.xml" />
@@ -623,14 +501,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch21-zk/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" />
@@ -644,33 +520,26 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_tukaani_xz_1_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_uncommons_maths_uncommons_maths_1_2_2a.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_0_5_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__tomcat_jasper_compiler_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__tomcat_jasper_runtime_5_5_23.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/libraries/Maven__xmlenc_xmlenc_0_52.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/src/main/java/MaxTemperature.java" />
@@ -689,7 +558,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/ch05-io.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/ch12-avro.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/ch15-sqoop.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch17-hive.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/ch18-crunch.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/ch19-spark.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/ch20-hbase.iml" />
@@ -697,7 +565,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch04-yarn/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/compiler.xml" />
@@ -705,7 +572,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch12-avro/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch15-sqoop/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/encodings.xml" />
@@ -713,7 +579,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch04-yarn/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/misc.xml" />
@@ -721,7 +586,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch04-yarn/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/modules.xml" />
@@ -729,7 +593,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch04-yarn/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/copyright/profiles_settings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/copyright/profiles_settings.xml" />
@@ -738,7 +601,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch04-yarn/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/vcs.xml" />
@@ -746,7 +608,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch04-yarn/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch05-io/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch09-mr-features/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch18-crunch/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch19-spark/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ch20-hbase/.idea/workspace.xml" />
@@ -756,10 +617,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch05-io/src/main/java/oldapi/MaxTemperatureWithCompression.java" afterPath="$PROJECT_DIR$/../ch05-io/src/main/java/oldapi/MaxTemperatureWithCompression.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch05-io/src/main/java/oldapi/MaxTemperatureWithMapOutputCompression.java" afterPath="$PROJECT_DIR$/../ch05-io/src/main/java/oldapi/MaxTemperatureWithMapOutputCompression.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch05-io/src/test/java/ObjectWritableTest.java" afterPath="$PROJECT_DIR$/../ch05-io/src/test/java/ObjectWritableTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch22-case-studies/src/main/java/fm/last/hadoop/programs/labs/trackstats/TrackStatisticsProgram.java" afterPath="$PROJECT_DIR$/../ch22-case-studies/src/main/java/fm/last/hadoop/programs/labs/trackstats/TrackStatisticsProgram.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch03-hdfs/src/main/java/URLCatWithEncoding.java" afterPath="$PROJECT_DIR$/../ch03-hdfs/src/main/java/URLCatWithEncoding.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch02-mr-intro/.idea/codeStyleSettings.xml" afterPath="$PROJECT_DIR$/../ch02-mr-intro/.idea/codeStyleSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ch16-pig/src/main/pig/max_temp.pig" afterPath="$PROJECT_DIR$/../ch16-pig/src/main/pig/max_temp.pig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ch17-hive.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -853,8 +714,8 @@
       <file leaf-file-name="sort.hive" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/hive/sort.hive">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17977528">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.38523275">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -1541,12 +1402,19 @@
       <created>1454304233207</created>
       <option name="number" value="Default" />
       <updated>1454304233207</updated>
-      <workItem from="1454304236315" duration="1455000" />
+      <workItem from="1454304236315" duration="1710000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1454310652721</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1454310652721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1455000" />
+    <option name="totallyTimeSpent" value="1710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-2" width="1320" height="784" extended-state="0" />
@@ -1554,6 +1422,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -1666,8 +1535,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/hive/sort.hive">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17977528">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.38523275">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
         </state>
       </provider>
