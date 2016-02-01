@@ -7,3 +7,4 @@ grouped_records = GROUP filtered_records BY year;
 max_temp = FOREACH grouped_records GENERATE group,
   MAX(filtered_records.temperature);
 DUMP max_temp;
+
