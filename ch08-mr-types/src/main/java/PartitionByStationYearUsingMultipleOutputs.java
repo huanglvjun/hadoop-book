@@ -1,6 +1,4 @@
 // == PartitionByStationYearUsingMultipleOutputs
-import java.io.IOException;
-
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.NullWritable;
@@ -11,6 +9,8 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.output.MultipleOutputs;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
+
+import java.io.IOException;
 
 public class PartitionByStationYearUsingMultipleOutputs extends Configured
   implements Tool {
@@ -48,6 +48,7 @@ public class PartitionByStationYearUsingMultipleOutputs extends Configured
         parser.parse(value);
         String basePath = String.format("%s/%s/part",
             parser.getStationId(), parser.getYear());
+//        key-value 记录根据basePath分发，从而生成多个文件。功能由MultipleOutputs类定义
         multipleOutputs.write(NullWritable.get(), value, basePath);
       }
     }
